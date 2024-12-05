@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pizzaguy21
-- 👀 I’m interested in web developer
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning html css js php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me stevenwijaya0405@gmail.com
